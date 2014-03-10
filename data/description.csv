@@ -4,5 +4,5 @@ label,sublabel,description,styles,bgcolor
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
 ペットボトル,,,img/bin02.svg,#2dc7aa
-test,,,img/bin02.svg,#2dc7aa
+test,,,,#2dc7aa
 
